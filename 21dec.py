@@ -1,0 +1,13 @@
+s1='Students of this batch are going to rock the INDIAN software industry!'
+# print(s1[0])
+# print(s1[24])
+# print(s1[-1])
+# print(s1[-3])
+# print(s1 [len(s1) -1] )
+#print(len(s1))
+# print(f" first and last elemnts are : {s1[0] + s1[-1]}")
+# print(f" fifth and last fifth elemnts are : {s1[4] + s1[-5]}")
+# print(f" last and last second elemnts are : {s1[len(s1) - 1] + s1[len(s1)-2]}")
+print(f" Alternates are : {s1 [::2]}")
+# print(f"slicing from 10 element to 25 elements: {s1 [10:26:1]}")
+print(f"Reverse of s1 : {s1 [40:-40:-2]}")
