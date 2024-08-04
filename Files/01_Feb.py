@@ -26,13 +26,13 @@
 #        str2+=(i) 
 # print(str2)
 
-list1=[11,22,33,44,55,66,77,88,99,00]
-even=0
-odd=0
-for i in list1:
-    if(i%2==0):
-        even+=i
-    else:
-        odd+=i
-print(f"Sum of even is {even}")
-print(f"Sum of odd is {odd}")
+# list1=[11,22,33,44,55,66,77,88,99,00]
+# even=0
+# odd=0
+# for i in list1:
+#     if(i%2==0):
+#         even+=i
+#     else:
+#         odd+=i
+# print(f"Sum of even is {even}")
+# print(f"Sum of odd is {odd}")
